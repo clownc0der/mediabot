@@ -1,0 +1,12 @@
+rust_media_bot/
+├── config/
+│   └── config.py
+├── database/
+│   └── database.py
+├── handlers/
+│   ├── __init__.py
+│   └── media_handlers.py
+├── keyboards/
+│   └── keyboards.py
+├── main.py
+└── requirements.txt 
